@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\obj\Debug\netcoreapp2.1\ElephantCarpaccio.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\obj\Debug\netcoreapp2.1\ElephantCarpaccio.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\obj\Debug\netcoreapp2.1\ElephantCarpaccio.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\obj\Debug\netcoreapp2.1\ElephantCarpaccio.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\bin\Debug\netcoreapp2.1\ElephantCarpaccio.deps.json
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\bin\Debug\netcoreapp2.1\ElephantCarpaccio.runtimeconfig.json
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\bin\Debug\netcoreapp2.1\ElephantCarpaccio.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\bin\Debug\netcoreapp2.1\ElephantCarpaccio.dll
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\bin\Debug\netcoreapp2.1\ElephantCarpaccio.pdb
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\obj\Debug\netcoreapp2.1\ElephantCarpaccio.dll
+C:\Users\berk.borak\source\repos\ElephantCarpaccio\ElephantCarpaccio\obj\Debug\netcoreapp2.1\ElephantCarpaccio.pdb

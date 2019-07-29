@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\Model\\Model.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\ConsoleApp.SQLite\\ConsoleApp.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\ConsoleApp.SQLite\\ConsoleApp.SQL.csproj",
+        "projectName": "ConsoleApp.SQL",
+        "projectPath": "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\ConsoleApp.SQLite\\ConsoleApp.SQL.csproj",
+        "packagesPath": "C:\\Users\\berk.borak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\ConsoleApp.SQLite\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\berk.borak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\berk.borak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\berk.borak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\ConsoleApp.SQLite\\ConsoleApp.SQL.csproj": {
+                "projectPath": "C:\\Users\\berk.borak\\source\\repos\\ConsoleApp.SQLite\\ConsoleApp.SQLite\\ConsoleApp.SQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

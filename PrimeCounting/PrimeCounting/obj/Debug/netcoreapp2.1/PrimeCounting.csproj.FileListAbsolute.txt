@@ -1,0 +1,10 @@
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\bin\Debug\netcoreapp2.1\PrimeCounting.deps.json
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\bin\Debug\netcoreapp2.1\PrimeCounting.runtimeconfig.json
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\bin\Debug\netcoreapp2.1\PrimeCounting.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\bin\Debug\netcoreapp2.1\PrimeCounting.dll
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\bin\Debug\netcoreapp2.1\PrimeCounting.pdb
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\obj\Debug\netcoreapp2.1\PrimeCounting.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\obj\Debug\netcoreapp2.1\PrimeCounting.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\obj\Debug\netcoreapp2.1\PrimeCounting.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\obj\Debug\netcoreapp2.1\PrimeCounting.dll
+C:\Users\berk.borak\source\repos\PrimeCounting\PrimeCounting\obj\Debug\netcoreapp2.1\PrimeCounting.pdb

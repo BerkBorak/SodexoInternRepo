@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\bin\Debug\netcoreapp2.1\TriangleContainment.deps.json
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\bin\Debug\netcoreapp2.1\TriangleContainment.runtimeconfig.json
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\bin\Debug\netcoreapp2.1\TriangleContainment.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\bin\Debug\netcoreapp2.1\TriangleContainment.dll
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\bin\Debug\netcoreapp2.1\TriangleContainment.pdb
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\obj\Debug\netcoreapp2.1\TriangleContainment.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\obj\Debug\netcoreapp2.1\TriangleContainment.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\obj\Debug\netcoreapp2.1\TriangleContainment.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\obj\Debug\netcoreapp2.1\TriangleContainment.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\obj\Debug\netcoreapp2.1\TriangleContainment.dll
+C:\Users\berk.borak\source\repos\TriangleContainment\TriangleContainment\obj\Debug\netcoreapp2.1\TriangleContainment.pdb

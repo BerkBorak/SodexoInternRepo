@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\bin\Debug\netcoreapp2.1\AdjacentMultiples.deps.json
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\bin\Debug\netcoreapp2.1\AdjacentMultiples.runtimeconfig.json
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\bin\Debug\netcoreapp2.1\AdjacentMultiples.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\bin\Debug\netcoreapp2.1\AdjacentMultiples.dll
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\bin\Debug\netcoreapp2.1\AdjacentMultiples.pdb
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\obj\Debug\netcoreapp2.1\AdjacentMultiples.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\obj\Debug\netcoreapp2.1\AdjacentMultiples.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\obj\Debug\netcoreapp2.1\AdjacentMultiples.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\obj\Debug\netcoreapp2.1\AdjacentMultiples.dll
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\obj\Debug\netcoreapp2.1\AdjacentMultiples.pdb
+C:\Users\berk.borak\source\repos\AdjacentMultiples\AdjacentMultiples\obj\Debug\netcoreapp2.1\AdjacentMultiples.csprojAssemblyReference.cache

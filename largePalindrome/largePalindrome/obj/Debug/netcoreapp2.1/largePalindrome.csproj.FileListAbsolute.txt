@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\bin\Debug\netcoreapp2.1\largePalindrome.deps.json
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\bin\Debug\netcoreapp2.1\largePalindrome.runtimeconfig.json
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\bin\Debug\netcoreapp2.1\largePalindrome.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\bin\Debug\netcoreapp2.1\largePalindrome.dll
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\bin\Debug\netcoreapp2.1\largePalindrome.pdb
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\obj\Debug\netcoreapp2.1\largePalindrome.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\obj\Debug\netcoreapp2.1\largePalindrome.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\obj\Debug\netcoreapp2.1\largePalindrome.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\obj\Debug\netcoreapp2.1\largePalindrome.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\obj\Debug\netcoreapp2.1\largePalindrome.dll
+C:\Users\berk.borak\source\repos\largePalindrome\largePalindrome\obj\Debug\netcoreapp2.1\largePalindrome.pdb

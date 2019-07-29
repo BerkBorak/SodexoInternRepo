@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\bin\Debug\netcoreapp2.1\PracticeSQLServer.deps.json
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\bin\Debug\netcoreapp2.1\PracticeSQLServer.runtimeconfig.json
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\bin\Debug\netcoreapp2.1\PracticeSQLServer.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\bin\Debug\netcoreapp2.1\PracticeSQLServer.dll
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\obj\Debug\netcoreapp2.1\PracticeSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\obj\Debug\netcoreapp2.1\PracticeSQLServer.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\obj\Debug\netcoreapp2.1\PracticeSQLServer.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\obj\Debug\netcoreapp2.1\PracticeSQLServer.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\bin\Debug\netcoreapp2.1\PracticeSQLServer.pdb
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\obj\Debug\netcoreapp2.1\PracticeSQLServer.dll
+C:\Users\berk.borak\source\repos\PracticeSQLServer\PracticeSQLServer\obj\Debug\netcoreapp2.1\PracticeSQLServer.pdb

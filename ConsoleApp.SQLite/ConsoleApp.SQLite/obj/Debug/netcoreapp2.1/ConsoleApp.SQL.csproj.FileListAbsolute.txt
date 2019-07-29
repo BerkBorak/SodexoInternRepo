@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQL.deps.json
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQL.runtimeconfig.json
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQL.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQL.dll
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQL.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQL.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQL.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQL.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\bin\Debug\netcoreapp2.1\ConsoleApp.SQL.pdb
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQL.dll
+C:\Users\berk.borak\source\repos\ConsoleApp.SQLite\ConsoleApp.SQLite\obj\Debug\netcoreapp2.1\ConsoleApp.SQL.pdb

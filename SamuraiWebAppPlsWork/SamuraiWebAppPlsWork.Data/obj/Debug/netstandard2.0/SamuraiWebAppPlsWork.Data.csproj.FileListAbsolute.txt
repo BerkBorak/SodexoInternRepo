@@ -1,0 +1,12 @@
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\bin\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.deps.json
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\bin\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.dll
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\obj\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\obj\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\obj\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\obj\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\bin\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.pdb
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\bin\Debug\netstandard2.0\SamuraiWebAppPlsWork.Domain.dll
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\bin\Debug\netstandard2.0\SamuraiWebAppPlsWork.Domain.pdb
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\obj\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.csproj.CopyComplete
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\obj\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.dll
+C:\Users\berk.borak\source\repos\SamuraiWebAppPlsWork\SamuraiWebAppPlsWork.Data\obj\Debug\netstandard2.0\SamuraiWebAppPlsWork.Data.pdb

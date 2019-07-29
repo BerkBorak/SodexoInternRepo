@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\bin\Debug\netcoreapp2.2\SameInReverse.deps.json
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\bin\Debug\netcoreapp2.2\SameInReverse.runtimeconfig.json
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\bin\Debug\netcoreapp2.2\SameInReverse.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\bin\Debug\netcoreapp2.2\SameInReverse.dll
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\bin\Debug\netcoreapp2.2\SameInReverse.pdb
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\obj\Debug\netcoreapp2.2\SameInReverse.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\obj\Debug\netcoreapp2.2\SameInReverse.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\obj\Debug\netcoreapp2.2\SameInReverse.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\obj\Debug\netcoreapp2.2\SameInReverse.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\obj\Debug\netcoreapp2.2\SameInReverse.dll
+C:\Users\berk.borak\source\repos\SameInReverse\SameInReverse\obj\Debug\netcoreapp2.2\SameInReverse.pdb

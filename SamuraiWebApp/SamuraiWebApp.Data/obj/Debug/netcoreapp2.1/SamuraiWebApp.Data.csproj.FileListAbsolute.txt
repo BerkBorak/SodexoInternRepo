@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\bin\Debug\netcoreapp2.1\SamuraiWebApp.Data.deps.json
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\bin\Debug\netcoreapp2.1\SamuraiWebApp.Data.dll
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\obj\Debug\netcoreapp2.1\SamuraiWebApp.Data.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\obj\Debug\netcoreapp2.1\SamuraiWebApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\obj\Debug\netcoreapp2.1\SamuraiWebApp.Data.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\obj\Debug\netcoreapp2.1\SamuraiWebApp.Data.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\bin\Debug\netcoreapp2.1\SamuraiWebApp.Data.runtimeconfig.json
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\bin\Debug\netcoreapp2.1\SamuraiWebApp.Data.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\bin\Debug\netcoreapp2.1\SamuraiWebApp.Data.pdb
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\obj\Debug\netcoreapp2.1\SamuraiWebApp.Data.dll
+C:\Users\berk.borak\source\repos\SamuraiWebApp\SamuraiWebApp.Data\obj\Debug\netcoreapp2.1\SamuraiWebApp.Data.pdb

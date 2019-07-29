@@ -1,0 +1,6 @@
+C:\Users\berk.borak\source\repos\SamuraiApp\SamuraiApp\obj\Debug\netcoreapp2.1\SamuraiApp.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\SamuraiApp\SamuraiApp\obj\Debug\netcoreapp2.1\SamuraiApp.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\SamuraiApp\SamuraiApp\obj\Debug\netcoreapp2.1\SamuraiApp.RazorAssemblyInfo.cache
+C:\Users\berk.borak\source\repos\SamuraiApp\SamuraiApp\obj\Debug\netcoreapp2.1\SamuraiApp.RazorAssemblyInfo.cs
+C:\Users\berk.borak\source\repos\SamuraiApp\SamuraiApp\obj\Debug\netcoreapp2.1\SamuraiApp.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\SamuraiApp\SamuraiApp\obj\Debug\netcoreapp2.1\SamuraiApp.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\bin\Debug\netcoreapp2.1\PrimeDivident.deps.json
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\bin\Debug\netcoreapp2.1\PrimeDivident.runtimeconfig.json
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\bin\Debug\netcoreapp2.1\PrimeDivident.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\bin\Debug\netcoreapp2.1\PrimeDivident.dll
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\bin\Debug\netcoreapp2.1\PrimeDivident.pdb
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\obj\Debug\netcoreapp2.1\PrimeDivident.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\obj\Debug\netcoreapp2.1\PrimeDivident.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\obj\Debug\netcoreapp2.1\PrimeDivident.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\obj\Debug\netcoreapp2.1\PrimeDivident.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\obj\Debug\netcoreapp2.1\PrimeDivident.dll
+C:\Users\berk.borak\source\repos\PrimeDivident\PrimeDivident\obj\Debug\netcoreapp2.1\PrimeDivident.pdb

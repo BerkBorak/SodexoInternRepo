@@ -1,0 +1,11 @@
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\bin\Debug\netcoreapp2.1\SquareSumVsSumSquare.deps.json
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\bin\Debug\netcoreapp2.1\SquareSumVsSumSquare.runtimeconfig.json
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\bin\Debug\netcoreapp2.1\SquareSumVsSumSquare.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\bin\Debug\netcoreapp2.1\SquareSumVsSumSquare.dll
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\bin\Debug\netcoreapp2.1\SquareSumVsSumSquare.pdb
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\obj\Debug\netcoreapp2.1\SquareSumVsSumSquare.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\obj\Debug\netcoreapp2.1\SquareSumVsSumSquare.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\obj\Debug\netcoreapp2.1\SquareSumVsSumSquare.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\obj\Debug\netcoreapp2.1\SquareSumVsSumSquare.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\obj\Debug\netcoreapp2.1\SquareSumVsSumSquare.dll
+C:\Users\berk.borak\source\repos\SquareSumVsSumSquare\SquareSumVsSumSquare\obj\Debug\netcoreapp2.1\SquareSumVsSumSquare.pdb
